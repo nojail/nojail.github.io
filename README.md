@@ -1,2 +1,2 @@
-# nojail.github.io
-Site for nojail.
+# nojail.github.io (WIP)
+My site containing exploits and more for School Chromebooks.
